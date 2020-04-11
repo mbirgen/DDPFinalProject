@@ -11,6 +11,7 @@ require(shiny)
 require(dplyr)
 require(ggplot2)
 require(titanic)
+require(rsconnect)
 
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {

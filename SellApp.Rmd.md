@@ -41,7 +41,7 @@ Survival Predictors
 
 ![plot of chunk unnamed-chunk-2](SellApp.Rmd-figure/unnamed-chunk-2-1.png)
 
-In this plot, $$Survived = 1$$ means the passenger survived the sinking of the ship.
+In this plot, Survived = 1 means the passenger survived the sinking of the ship.
 
 Future Work
 =====================================================

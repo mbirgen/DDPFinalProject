@@ -39,7 +39,7 @@ require(ggplot2)
 qplot(as.factor(Survived), data = Subdata, fill = Sex, xlab="Survived", main = "Count of Passengers who Survived") +geom_bar()
 ```
 
-In this plot, $$Survived = 1$$ means the passenger survived the sinking of the ship.
+In this plot, Survived = 1 means the passenger survived the sinking of the ship.
 
 Future Work
 =====================================================
